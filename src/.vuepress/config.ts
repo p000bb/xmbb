@@ -5,7 +5,7 @@ import TailWindCss from "tailwindcss";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/xmbb/",
 
   lang: "zh-CN",
   title: "博客演示",
